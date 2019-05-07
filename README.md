@@ -1,4 +1,4 @@
-# LAB: Deployment
+# LAB: Deployment yay
 
 ### Get this code up and running Travis and Heroku!
 
